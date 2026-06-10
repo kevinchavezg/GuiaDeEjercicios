@@ -13,3 +13,6 @@ El ciclismo es un ejercicio aeróbico de bajo impacto que se puede realizar al a
 2. Inicia con 10 minutos de pedaleo suave a una cadencia cómoda.
 3. Realiza la ruta o sesión manteniendo un ritmo constante, variando la resistencia si es necesario.
 
+## Consejos
+- Asegúrate de llevar el equipo de seguridad adecuado (casco) si ruedas en exteriores.
+- Mantén una cadencia fluida (evita pedalear con demasiada traba si te frena el ritmo).
