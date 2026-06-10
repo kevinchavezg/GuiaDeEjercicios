@@ -13,3 +13,6 @@ La natación es un deporte aeróbico de cuerpo completo que utiliza la resistenc
 2. Alterna entre diferentes estilos (crol, espalda, pecho) para trabajar distintas zonas.
 3. Disminuye la velocidad en los últimos minutos para recuperar el ritmo cardíaco normal.
 
+## Consejos
+- Mantén una técnica de respiración bilateral para evitar sobrecargar un solo lado del cuello.
+- Usa gorra y gafas para proteger tus ojos y mantener una mejor visibilidad.
