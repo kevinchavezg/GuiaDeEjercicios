@@ -7,3 +7,8 @@ El entrenamiento de fuerza implica el uso de resistencia (pesas, bandas o el pro
 - Aumenta la densidad ósea y muscular.
 - Acelera el metabolismo basal.
 - Mejora la postura y protege las articulaciones.
+
+## Instrucciones
+1. Realiza un calentamiento dinámico enfocado en las articulaciones que vas a trabajar.
+2. Ejecuta los ejercicios (sentadillas, press de banca, peso muerto) priorizando la técnica sobre el peso.
+3. Descansa entre 1 y 2 minutos entre series y finaliza con estiramientos leves.
