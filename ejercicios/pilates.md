@@ -12,3 +12,7 @@ Pilates es un método de entrenamiento que se centra en el control mental sobre 
 1. Conéctate con la respiración costal antes de comenzar los movimientos.
 2. Realiza los ejercicios en mat (colchoneta) o reformador de manera lenta y controlada.
 3. Mantén la activación del "Powerhouse" (centro) durante toda la sesión.
+
+## Consejos
+- La calidad del movimiento es mucho más importante que la cantidad de repeticiones.
+- Controla el regreso de cada movimiento, no dejes que la gravedad lo haga por ti.
