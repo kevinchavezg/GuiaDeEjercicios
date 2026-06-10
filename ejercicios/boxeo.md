@@ -13,3 +13,6 @@ El boxeo como entrenamiento (fitness de combate) combina el trabajo de pies, la 
 2. Practica las posiciones básicas y ejecuta combinaciones de golpes (jab, cruzado, gancho).
 3. Finaliza con ejercicios de core y estiramientos del tren superior.
 
+## Consejos
+- Protege siempre tus manos utilizando vendajes adecuados debajo de los guantes.
+- Genera la fuerza de los golpes desde la rotación de la cadera y las piernas, no solo de los brazos.
