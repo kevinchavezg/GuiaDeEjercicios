@@ -13,3 +13,6 @@ CrossFit es un sistema de acondicionamiento físico basado en movimientos funcio
 2. Ejecuta el WOD (Entrenamiento del Día) buscando mantener la intensidad requerida.
 3. Registra tu progreso y realiza una rutina exhaustiva de flexibilidad al terminar.
 
+## Consejos
+- Escala los pesos y ejercicios según tu nivel actual; la intensidad no debe destruir la técnica.
+- Escucha a tu cuerpo y prioriza la recuperación para evitar el sobreentrenamiento.
